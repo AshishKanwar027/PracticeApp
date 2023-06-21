@@ -1,0 +1,2 @@
+# PracticeApp
+Practicing spring boot
